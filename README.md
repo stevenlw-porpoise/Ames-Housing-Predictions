@@ -15,6 +15,6 @@ I built this as the second project for the General Assembly Data Science Immersi
 * Presentation Slides.pdf - Presentation slides
 
 #### Folders:
-datasets/ - Input files, cleaned data sets, and model residuals
-presentation plots/ - All plots used in presentation
-submission/ - Prediction files submitted on kaggle
+* datasets/ - Input files, cleaned data sets, and model residuals
+* presentation plots/ - All plots used in presentation
+* submission/ - Prediction files submitted on kaggle
