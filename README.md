@@ -1,7 +1,7 @@
 # Ames Housing Data
 
 This project aims to build (penalized) linear regression models on the Ames Iowa housing data set. 
-A detailed description of the features in this data set is avaialbe at http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
+A detailed description of the features in this data set is available at <http://jse.amstat.org/v19n3/decock/DataDocumentation.txt>.
 I built this as the second project for the General Assembly Data Science Immersive bootcamp.
 
 #### Files:
